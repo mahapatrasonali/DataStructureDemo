@@ -4,8 +4,10 @@
     {
         public static void Main(string[] args)
         {
-            Stack stack= new Stack();
-            stack.StackDisplay();
+            Queue queue= new Queue();
+            queue.QueueDisplay();
+            //Stack stack= new Stack();
+            // stack.StackDisplay();
         }
     }
 }
